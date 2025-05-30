@@ -36,6 +36,12 @@ DB_HOST=orders_management_db
 DB_DATABASE=orders_management_mysql
 DB_USERNAME=root
 DB_PASSWORD=root
+MAIL_MAILER=smtp
+MAIL_HOST=<smtp host>
+MAIL_PORT=<smtp port>
+MAIL_USERNAME=<smtp username>
+MAIL_PASSWORD=<smtp password>
+MAIL_FROM_ADDRESS=<sender email address>
 ```
 
 ### 4. Build and run containers
