@@ -1,6 +1,6 @@
 # Orders Management App
 
-A basic Orders Management System <em>(CMS)</em> built with **Laravel 7** and **PHP 7**, that allows you to CRUD orders, receive an email notification with your invoice and to download the PDF invoice from the UI.
+A basic Orders Management App built with **Laravel 7** and **PHP 7**, that allows you to CRUD orders, receive an email notification with your invoice and to download the PDF invoice from the UI.
 
 > 🕘 This is a reupload of a small test project originally built 5 years ago, now containerized with Docker for easier setup and portability.
 
